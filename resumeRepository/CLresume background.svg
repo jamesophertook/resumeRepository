@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 612 792" style="enable-background:new 0 0 612 792;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{opacity:4.000000e-02;}
+	.st2{fill:none;}
+</style>
+<g id="background">
+	<rect width="612" height="792"/>
+	<rect x="18" y="18" class="st0" width="576" height="756"/>
+</g>
+<g id="images">
+	<polygon class="st1" points="57.1,154.9 106.6,106.5 193.4,198.8 	"/>
+	<polygon class="st1" points="420.7,484.3 517.9,495.5 472.2,575.9 	"/>
+	<polygon class="st1" points="469.3,124.7 504.4,106 513.2,149.9 	"/>
+	<polygon class="st1" points="108.5,682.1 78.9,612.6 242.1,619.9 	"/>
+	<polygon class="st1" points="385.1,357.3 226.9,336 251.9,427.6 	"/>
+	<circle class="st1" cx="464.9" cy="287.3" r="17.6"/>
+	<circle class="st1" cx="266.5" cy="525.3" r="51.2"/>
+	<circle class="st1" cx="362.4" cy="661.3" r="68.7"/>
+	<polygon class="st1" points="510,337 531.3,402.7 410.1,439.4 	"/>
+	<polygon class="st1" points="171.8,443.3 118.6,525.3 66.9,448.6 	"/>
+	<polygon class="st1" points="536.2,647.5 537.2,687.3 494,675.7 	"/>
+	<polygon class="st1" points="230.6,51.5 306,55.9 226.9,198.8 	"/>
+	<polygon class="st1" points="396.2,313.1 485.7,180.9 392.5,162.5 	"/>
+	
+		<ellipse transform="matrix(0.4449 -0.8956 0.8956 0.4449 -293.7419 668.5904)" class="st1" cx="392.5" cy="571.3" rx="17.6" ry="17.6"/>
+	
+		<ellipse transform="matrix(0.4449 -0.8956 0.8956 0.4449 -36.4815 404.1024)" class="st1" cx="307.7" cy="231.5" rx="51.2" ry="51.2"/>
+	
+		<ellipse transform="matrix(0.4449 -0.8956 0.8956 0.4449 -223.1607 266.1759)" class="st1" cx="103.1" cy="313.1" rx="68.7" ry="68.7"/>
+</g>
+<g id="text">
+	<rect x="54" y="100" class="st2" width="504.1" height="573.2"/>
+</g>
+</svg>

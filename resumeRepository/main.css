@@ -1,0 +1,70 @@
+strong{
+    font-family: 'Abel', sans-serif;
+    font-size: 1.5em;
+  }
+
+  #je{
+    font-weight:lighter;
+    float:right;
+    color:gray;
+  }
+  
+  
+  b{
+    font-size: 1.5em;
+  }
+
+  
+  i{
+    font-weight: lighter;
+  }
+  
+  
+  body{
+  
+    font-family:'EB Garamond', serif;
+    font-size: 1.25em;
+    background: url(colored.svg);
+    background-size: auto auto;
+  }
+  
+  
+  h1 {
+    font-family: major mono display;
+    font-size: 4em;
+    font-weight: lighter;
+    letter-spacing: 12px;
+  }
+  
+  
+  h2{
+    font-family: 'Abel', sans-serif;
+    font-size: 2em;
+  }
+  
+  
+  h3{
+    font-family: 'Abel', sans-serif;
+    font-size: 1.25em;
+  }
+  
+  
+  #edu{
+  width: 75%;
+  float:left;
+  }
+
+  #exp{
+  width: 75%;
+  float:left;
+  }
+
+  #ach{
+    width: 75%;
+    float:left;
+    }
+
+  .dates{
+    float: right;
+  }
+  
